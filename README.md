@@ -1,5 +1,16 @@
 # Laravel Google API
 
+## Laravel 10 Compatibility
+
+This fork has been updated to support Laravel 10 and PHP 8.1+. The following changes were made:
+
+* Updated PHP requirement to include support for PHP 8.1 and 8.2: `^7.2|^8.0|^8.1|^8.2`
+* Added support for Laravel 10: `~5.0|^6.0|^7.0|^8.0|^9.0|^10.0`
+
+This fork is maintained by [mamonv](https://github.com/mamonv).
+
+---
+
 A sweet package for managing Google Merchant Center feeds for Google Shopping. This package is prepared to implement the advanced [Content API](https://developers.google.com/shopping-content/v2.1/quickstart) for Merchants.
 
 
